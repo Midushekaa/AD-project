@@ -1,0 +1,40 @@
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\bin\Debug\Management Sytem.exe.config
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\bin\Debug\Management Sytem.exe
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\bin\Debug\Management Sytem.pdb
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\obj\Debug\Management Sytem.csproj.AssemblyReference.cache
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Form1.resources
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Properties.Resources.resources
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\obj\Debug\Management Sytem.csproj.GenerateResource.cache
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\obj\Debug\Management Sytem.csproj.CoreCompileInputs.cache
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\obj\Debug\Management Sytem.exe
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\obj\Debug\Management Sytem.pdb
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\obj\Debug\Management Sytem.exe.config
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Resources.Notification.resources
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Payment.resources
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Customer.resources
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Customer_Account.resources
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Partial_Payment_Tracker.resources
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Meter.resources
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Meter_Reading.resources
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Traiff_Plan.resources
+D:\Degree\AD\Project\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Bill.resources
+D:\System\Management Sytem\Management Sytem\bin\Debug\Management Sytem.exe.config
+D:\System\Management Sytem\Management Sytem\bin\Debug\Management Sytem.exe
+D:\System\Management Sytem\Management Sytem\bin\Debug\Management Sytem.pdb
+D:\System\Management Sytem\Management Sytem\obj\Debug\Management Sytem.csproj.AssemblyReference.cache
+D:\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Bill.resources
+D:\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Customer.resources
+D:\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Customer_Account.resources
+D:\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Form1.resources
+D:\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Meter.resources
+D:\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Meter_Reading.resources
+D:\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Partial_Payment_Tracker.resources
+D:\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Payment.resources
+D:\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Properties.Resources.resources
+D:\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Traiff_Plan.resources
+D:\System\Management Sytem\Management Sytem\obj\Debug\Management Sytem.csproj.GenerateResource.cache
+D:\System\Management Sytem\Management Sytem\obj\Debug\Management Sytem.csproj.CoreCompileInputs.cache
+D:\System\Management Sytem\Management Sytem\obj\Debug\Management Sytem.exe
+D:\System\Management Sytem\Management Sytem\obj\Debug\Management Sytem.pdb
+D:\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.RegisterForm.resources
+D:\System\Management Sytem\Management Sytem\obj\Debug\Management_Sytem.Notification.resources
